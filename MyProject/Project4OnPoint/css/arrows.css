@@ -1,0 +1,550 @@
+/*4isto strelo4ki*/
+.arrow-1 {
+    position: absolute;
+    left: 50%;
+    transform: rotate(90deg) translateY(1850%);
+    margin: auto;
+    bottom: 47.8%;
+}
+.arrow-1 div {
+    width: 40px;
+    height: 1px;
+    background-color: #FFF;
+    display: block;
+}
+.arrow-1 div::after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 4px 15px 4px;
+    border-color: transparent transparent #FFF transparent;
+    transform: rotate(90deg);
+    right: -10px;
+    top: -740%;
+}
+
+/*2*/
+#arr_2 {
+    position: absolute;
+    left: 28%;
+    transform: rotate(
+0deg
+) translateY(1000%);
+    margin: auto;
+    bottom: 36.5%;
+}
+#arr_2 div {
+    width: 60px;
+    height: 1px;
+    background-color: #FFF;
+    display: block;
+}
+
+/*3*/
+#arr_3 {
+    position: absolute;
+    left: 66%;
+    transform: rotate(180deg) translateY(1000%);
+    margin: auto;
+    bottom: 34.5%;
+}
+#arr_3 div {
+    width: 60px;
+    height: 1px;
+    background-color: #FFF;
+    display: block;
+}
+/*4*/
+#arr_4 {
+    position: absolute;
+    left: 55%;
+    transform: rotate(
+    33deg
+    ) translateY(1000%);
+    margin: auto;
+    bottom: 50%;
+}
+#arr_4 div {
+    width: 200px;
+    height: 1px;
+    background-color: #FFF;
+    display: block;
+}
+/*5*/
+#arr_5 {
+    position: absolute;
+    left: 26.5%;
+    transform: rotate( 
+    147deg
+     ) translateY(1000%);
+    margin: auto;
+    bottom: 47%;
+}
+#arr_5 div {
+    width: 200px;
+    height: 1px;
+    background-color: #FFF;
+    display: block;
+}
+/*Vtoroy slide*/
+#arr_21 {
+    position: absolute;
+    margin: auto;
+    bottom: 62.4%;
+    left: 50.6%;
+}
+#arr_21 div {
+    width: 26px;
+    height: 1px;
+    background-color: #FFF;
+    display: block;
+}
+
+#arr_22 {
+    position: absolute;
+    margin: auto;
+    bottom: 62.4%;
+    left: 66.3%;
+}
+#arr_22 div {
+    width: 26px;
+    height: 1px;
+    background-color: #FFF;
+    display: block;
+}
+
+#arr_23 {
+    position: absolute;
+    margin: auto;
+    bottom: 62.4%;
+    left: 35%;
+}
+#arr_23 div {
+    width: 26px;
+    height: 1px;
+    background-color: #FFF;
+    display: block;
+}
+
+#arr_24 {
+    position: absolute;
+    margin: auto;
+    bottom: 37.6%;
+    left: 31.3%;
+    transform: rotate(270deg) translateY(1850%);
+}
+#arr_24 div {
+    width: 26px;
+    height: 1px;
+    background-color: #FFF;
+    display: block;
+}
+
+#arr_25 {
+    position: absolute;
+    margin: auto;
+    bottom: 37.6%;
+    left: 47%;
+    transform: rotate(270deg) translateY(1850%);
+}
+#arr_25 div {
+    width: 26px;
+    height: 1px;
+    background-color: #FFF;
+    display: block;
+}
+
+#arr_26 {
+    position: absolute;
+    margin: auto;
+    bottom: 37.6%;
+    left: 62.7%;
+    transform: rotate(270deg) translateY(1850%);
+}
+#arr_26 div {
+    width: 26px;
+    height: 1px;
+    background-color: #FFF;
+    display: block;
+}
+#arr_27 {
+    position: absolute;
+    margin: auto;
+    bottom: 52.6%;
+    left: 26.3%;
+    transform: rotate(0deg) translateY(1850%);
+}
+#arr_27 div {
+    width: 26px;
+    height: 1px;
+    background-color: #FFF;
+    display: block;
+}
+#arr_28 {
+    position: absolute;
+    margin: auto;
+    bottom: 47.8%;
+    left: 71.2%;
+    transform: rotate(180deg) translateY(1850%);
+}
+#arr_28 div {
+    width: 26px;
+    height: 1px;
+    background-color: #FFF;
+    display: block;
+}
+
+/*Tret'ya 4ast'*/
+#arr_31 {
+    position: absolute;
+    left: 40.7%;
+    transform: rotate(
+90deg
+) translateY(1850%);
+    bottom: 49.7%;
+}
+#arr_31 div {
+    width: 230px;
+    height: 1px;
+    background-color: #FFF;
+    display: block;
+}
+
+#arr_32 {
+    position: absolute;
+    left: 50.7%;
+    transform: rotate(
+90deg
+) translateY(1850%);
+    margin: auto;
+    bottom: 60.1%;
+}
+#arr_32 div {
+    width: 70px;
+    height: 1px;
+    background-color: #FFF;
+    display: block;
+}
+
+#arr_33 {
+    position: absolute;
+    left: 46.3%;
+    transform: rotate(
+90deg
+) translateY(1850%);
+    margin: auto;
+    bottom: 60.1%;
+}
+#arr_33 div {
+    width: 70px;
+    height: 1px;
+    background-color: #FFF;
+    display: block;
+}
+
+#arr_34 {
+    position: absolute;
+    left: 46.8%;
+    transform: rotate( 
+90deg
+ ) translateY(1850%);
+    margin: auto;
+    bottom: 38.7%;
+}
+#arr_34 div {
+    width: 60px;
+    height: 1px;
+    background-color: #FFF;
+    display: block;
+}
+
+#arr_35 {
+    position: absolute;
+    left: 53.6%;
+    transform: rotate( 
+90deg
+ ) translateY(1850%);
+    margin: auto;
+    bottom: 35.4%;
+}
+#arr_35 div {
+    width: 10px;
+    height: 1px;
+    background-color: #FFF;
+    display: block;
+}
+
+#arr_36 {
+    position: absolute;
+    left: 53.6%;
+    transform: rotate( 
+90deg
+ ) translateY(1850%);
+    margin: auto;
+    bottom: 41.9%;
+}
+#arr_36 div {
+    width: 10px;
+    height: 1px;
+    background-color: #FFF;
+    display: block;
+}
+
+#arr_37 {
+    position: absolute;
+    left: 51.8%;
+    transform: rotate( 
+90deg
+ ) translateY(1850%);
+    margin: auto;
+    bottom: 28%;
+}
+#arr_37 div {
+    width: 25px;
+    height: 1px;
+    background-color: #FFF;
+    display: block;
+}
+
+#arr_38 {
+    position: absolute;
+    left: 45.8%;
+    transform: rotate( 
+270deg
+ ) translateY(1850%);
+    margin: auto;
+    bottom: 26.3%;
+}
+#arr_38 div {
+    width: 25px;
+    height: 1px;
+    background-color: #FFF;
+    display: block;
+}
+
+#arr_39 {
+    position: absolute;
+    left: 70.3%;
+    transform: rotate( 
+270deg
+ ) translateY(1850%);
+    margin: auto;
+    bottom: 60.3%;
+}
+#arr_39 div {
+    width: 25px;
+    height: 1px;
+    background-color: #FFF;
+    display: block;
+}
+
+#arr_310 {
+    position: absolute;
+    left: 75.5%;
+    transform: rotate( 
+90deg
+ ) translateY(1850%);
+    margin: auto;
+    bottom: 62%;
+}
+#arr_310 div {
+    width: 25px;
+    height: 1px;
+    background-color: #FFF;
+    display: block;
+}
+
+#arr_311 {
+    position: absolute;
+    left: 36.6%;
+    transform: rotate( 
+0deg
+ ) translateY(1850%);
+    margin: auto;
+    bottom: 33.9%;
+}
+#arr_311 div {
+    width: 35px;
+    height: 1px;
+    background-color: #FFF;
+    display: block;
+}
+
+#arr_312 {
+    position: absolute;
+    left: 33%;
+    transform: rotate( 
+90deg
+ ) translateY(1850%);
+    margin: auto;
+    bottom: 41%;
+}
+#arr_312 div {
+    width: 20px;
+    height: 1px;
+    background-color: #FFF;
+    display: block;
+}
+
+#arr_313 {
+    position: absolute;
+    left: 56%;
+    transform: rotate( 
+15deg
+ ) translateY(1850%);
+    margin: auto;
+    bottom: 72%;
+}
+#arr_313 div {
+    width: 70px;
+    height: 1px;
+    background-color: #FFF;
+    display: block;
+}
+
+#arr_314 {
+    position: absolute;
+    left: 56%;
+    transform: rotate(
+195deg
+) translateY(1850%);
+    margin: auto;
+    bottom: 65.5%;
+}
+#arr_314 div {
+    width: 70px;
+    height: 1px;
+    background-color: #FFF;
+    display: block;
+}
+
+#arr_315 {
+    position: absolute;
+    left: 36.3%;
+    transform: rotate( 
+345deg
+ ) translateY(1850%);
+    margin: auto;
+    bottom: 69.9%;
+}
+#arr_315 div {
+    width: 70px;
+    height: 1px;
+    background-color: #FFF;
+    display: block;
+}
+
+#arr_316 {
+    position: absolute;
+    left: 38.3%;
+    transform: rotate(
+165deg
+) translateY(1850%);
+    margin: auto;
+    bottom: 67.3%;
+}
+#arr_316 div {
+    width: 70px;
+    height: 1px;
+    background-color: #FFF;
+    display: block;
+}
+
+#arr_317 {
+    position: absolute;
+    left: 34.7%;
+    transform: rotate( 
+40deg
+ ) translateY(1850%);
+    margin: auto;
+    bottom: 40.5%;
+}
+#arr_317 div {
+    width: 80px;
+    height: 1px;
+    background-color: #FFF;
+    display: block;
+}
+
+#arr_318 {
+    position: absolute;
+    left: 54.5%;
+    transform: rotate( 
+40deg
+ ) translateY(1850%);
+    margin: auto;
+    bottom: 65.5%;
+}
+#arr_318 div {
+    width: 100px;
+    height: 1px;
+    background-color: #FFF;
+    display: block;
+}
+
+#arr_319 {
+    position: absolute;
+    left: 52.6%;
+    transform: rotate( 
+220deg
+ ) translateY(1850%);
+    margin: auto;
+    bottom: 59.5%;
+}
+#arr_319 div {
+    width: 100px;
+    height: 1px;
+    background-color: #FFF;
+    display: block;
+}
+
+#arr_320 {
+    position: absolute;
+    left: 36%;
+    transform: rotate( 
+320deg
+ ) translateY(1850%);
+    margin: auto;
+    bottom: 63.2%;
+}
+#arr_320 div {
+    width: 100px;
+    height: 1px;
+    background-color: #FFF;
+    display: block;
+}
+
+#arr_321 {
+    position: absolute;
+    left: 38.4%;
+    transform: rotate(
+140deg
+) translateY(1850%);
+    margin: auto;
+    bottom: 61.6%;
+}
+#arr_321 div {
+    width: 100px;
+    height: 1px;
+    background-color: #FFF;
+    display: block;
+}
+
+#arr_322 {
+    position: absolute;
+    left: 33.3%;
+    transform: rotate( 
+131deg
+ ) translateY(1850%);
+    margin: auto;
+    bottom: 54.5%;
+}
+/*Solo 322*/
+#arr_322 div {
+    width: 190px;
+    height: 1px;
+    background-color: #FFF;
+    display: block;
+}
