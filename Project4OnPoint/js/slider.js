@@ -92,7 +92,7 @@ window.addEventListener('load', function () {
 			document.removeEventListener('touchend', onMouseUp);
 			document.removeEventListener('touchmove', onMouseMove);
 
-			// Obrabotka otpuskaniya slider'a:
+			// Обработка отпускания слайдера:
 
 			// Позиция ползунка от левой границы экрана
 			let handle_pos = document.getElementById('slider_handle').getBoundingClientRect().left;
